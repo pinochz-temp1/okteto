@@ -4,12 +4,12 @@ const  { indonesia, english} = require(`./language`)
 
 // Website Api
 global.APIs = {
-	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
+	alfa: 'https://api-alphabot.herokuapp.com', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api-alphabot.herokuapp.com': 'r3I3NfTd',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
